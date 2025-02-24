@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable beach
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id bottomMenuContainer
+id buttonContainer
+id main
+id topMenuContainer
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.SeaOfCinema
+style Theme.SeaOfCinema
+xml backup_rules
+xml data_extraction_rules

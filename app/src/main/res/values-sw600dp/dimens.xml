@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_height">150dp</dimen>
+    <dimen name="card_margin">10dp</dimen>
+    <dimen name="menu_button_width">300dp</dimen>
+    <dimen name="menu_button_height">70dp</dimen>
+    <dimen name="menu_container_height">500dp</dimen>
+    <dimen name="text_size_large">40sp</dimen>
+    <dimen name="text_size_medium">20sp</dimen>
+    <dimen name="menu_margin">80dp</dimen>
+</resources>

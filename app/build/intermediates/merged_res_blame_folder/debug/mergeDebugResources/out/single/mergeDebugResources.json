@@ -1,74 +1,302 @@
 [
     {
-        "merged": "com.example.seaofcinema.app-debug-32:/mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "com.example.seaofcinema.app-main-34:/mipmap-anydpi/ic_launcher_round.xml"
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\mipmap-hdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.seaofcinema.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.seaofcinema.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.seaofcinema.app-debug-32:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.seaofcinema.app-main-34:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable_baseline_video_library.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable\\baseline_video_library.xml"
     },
     {
-        "merged": "com.example.seaofcinema.app-debug-32:/mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "com.example.seaofcinema.app-main-34:/mipmap-anydpi/ic_launcher.xml"
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-hdpi_posters5.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-hdpi\\posters5.webp"
     },
     {
-        "merged": "com.example.seaofcinema.app-debug-32:/layout_activity_main.xml.flat",
-        "source": "com.example.seaofcinema.app-main-34:/layout/activity_main.xml"
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\mipmap-mdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.seaofcinema.app-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.seaofcinema.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable_round_menu.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable\\round_menu.xml"
     },
     {
-        "merged": "com.example.seaofcinema.app-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.seaofcinema.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-hdpi_posters2.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-hdpi\\posters2.webp"
     },
     {
-        "merged": "com.example.seaofcinema.app-debug-32:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.seaofcinema.app-main-34:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.seaofcinema.app-debug-32:/xml_backup_rules.xml.flat",
-        "source": "com.example.seaofcinema.app-main-34:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.seaofcinema.app-debug-32:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.seaofcinema.app-main-34:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-xxxhdpi_posters4.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-xxxhdpi\\posters4.webp"
     },
     {
-        "merged": "com.example.seaofcinema.app-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.seaofcinema.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable_baseline_settings.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable\\baseline_settings.xml"
     },
     {
-        "merged": "com.example.seaofcinema.app-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.seaofcinema.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\menu\\nav_menu.xml"
     },
     {
-        "merged": "com.example.seaofcinema.app-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.seaofcinema.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.seaofcinema.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.seaofcinema.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable_posters4.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable\\posters4.webp"
     },
     {
-        "merged": "com.example.seaofcinema.app-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.seaofcinema.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-xhdpi_posters3.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-xhdpi\\posters3.webp"
     },
     {
-        "merged": "com.example.seaofcinema.app-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.seaofcinema.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-xxhdpi_posters5.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-xxhdpi\\posters5.webp"
     },
     {
-        "merged": "com.example.seaofcinema.app-debug-32:/drawable_beach.webp.flat",
-        "source": "com.example.seaofcinema.app-main-34:/drawable/beach.webp"
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-xxxhdpi_posters1.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-xxxhdpi\\posters1.webp"
     },
     {
-        "merged": "com.example.seaofcinema.app-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.seaofcinema.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-night_gradient_background.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-night\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-night_baseline_settings.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-night\\baseline_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-night_baseline_video_library.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-night\\baseline_video_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-mdpi_posters3.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-mdpi\\posters3.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-night_baseline_dehaze.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-night\\baseline_dehaze.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\anim_slite_down.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\anim\\slite_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-xxhdpi_posters3.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-xxhdpi\\posters3.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-xxxhdpi_posters2.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-xxxhdpi\\posters2.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable_posters5.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable\\posters5.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-mdpi_posters4.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-mdpi\\posters4.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-xhdpi_posters4.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-xhdpi\\posters4.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\layout-sw600dp_activity_main.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\layout-sw600dp\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-xxhdpi_posters2.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-xxhdpi\\posters2.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-xxxhdpi_posters3.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-xxxhdpi\\posters3.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-hdpi_posters4.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-hdpi\\posters4.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-night_baseline_watch_later_24.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-night\\baseline_watch_later_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-hdpi_posters3.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-hdpi\\posters3.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-xhdpi_posters5.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-xhdpi\\posters5.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\font_filmstrip.ttf.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\font\\filmstrip.ttf"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-mdpi_posters5.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-mdpi\\posters5.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-xxhdpi_posters1.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-xxhdpi\\posters1.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-xhdpi_posters2.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-xhdpi\\posters2.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable_posters3.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable\\posters3.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable_baseline_favorite.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable\\baseline_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-xxhdpi_posters4.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-xxhdpi\\posters4.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\menu_toolbar_menu.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\menu\\toolbar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.seaofcinema.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.example.seaofcinema.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable_baseline_watch_later_24.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable\\baseline_watch_later_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-night_baseline_favorite.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-night\\baseline_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-hdpi_posters1.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-hdpi\\posters1.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-xxxhdpi_posters5.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-xxxhdpi\\posters5.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable_baseline_dehaze.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable\\baseline_dehaze.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable_icon_film.png.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable\\icon_film.png"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-mdpi_posters1.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-mdpi\\posters1.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable_posters1.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable\\posters1.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\font_heading.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\font\\heading.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-xhdpi_posters1.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-xhdpi\\posters1.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable_posters2.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable\\posters2.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable-mdpi_posters2.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable-mdpi\\posters2.webp"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\drawable_heading_backround.xml.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\drawable\\heading_backround.xml"
+    },
+    {
+        "merged": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-debug-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\zivaa\\.gradle\\daemon\\8.9\\com.example.seaofcinema.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
     }
 ]

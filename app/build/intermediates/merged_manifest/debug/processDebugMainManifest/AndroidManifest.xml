@@ -5,7 +5,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="29"
+        android:minSdkVersion="28"
         android:targetSdkVersion="35" />
 
     <permission
@@ -26,7 +26,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.SeaOfCinema" >
+        android:theme="@style/AppTheme" >
         <activity
             android:name="com.example.seaofcinema.MainActivity"
             android:exported="true" >

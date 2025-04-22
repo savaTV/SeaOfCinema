@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.seaofcinema.app-mergeDebugResources-30:/values-v23/values-v23.xml",
+            "outputFile": "com.example.seaofcinema.app-mergeDebugResources-31:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\78238c778e1856df376f03eaaf7854d3\\transformed\\material-1.12.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\44a0d09e927de3fd0017f84301fab4f0\\transformed\\material-1.13.0-alpha11\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,5,9,13,16,19,22,25,28,32",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\7c88f5021630a9d6a5749539c01e2ad1\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\0145337cd86ca68bc7b967a26fb60aa6\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\fa48d1b0ea0a02e79e69fe7286722286\\transformed\\appcompat-1.7.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\b0d4874b955f754c84b7f31037b6557a\\transformed\\appcompat-1.7.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

@@ -9,4 +9,11 @@
     <string name="disclaimer">Постеры предоставлены https://www.movieposters.com/</string>
     <string name="nameApp">SeaOfCinema</string>
     <string name="imagePoster">null</string>
+    <string name="baselineFavorites">Избранное</string>
+    <string name="baselineSetting">Настройка</string>
+    <string name="baselineWatchLater">Смотреть позже </string>
+    <string name="baselineSelections"> Подборка </string>
+    <string name="page_title"> Search it </string>
+
+
 </resources>

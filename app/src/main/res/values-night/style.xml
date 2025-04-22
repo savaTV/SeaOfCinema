@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents">
+        <item name="colorPrimary">@color/black</item> <!-- Основной цвет приложения (например, для тулбара) -->
+        <item name="backgroundColor">@color/white</item> <!-- Цвет фона для элементов или экрана -->
+        <item name="colorPrimaryDark">@color/black</item> <!-- Темный вариант основного цвета (например, для статус-бара) -->
+        <item name="colorAccent">@color/white</item> <!-- Акцентный цвет (например, для кнопок или выделений) -->
+        <item name="android:textColorLink">@color/white</item> <!-- Цвет ссылок в тексте -->
+        <item name="android:textColor">@color/white</item> <!-- Основной цвет текста в приложении -->
+        <item name="elevation">0dp</item> <!--убираем тень  -->
+
+    </style>
+
+    <style name="Widget.App.BottomNavigationView" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="backgroundTint">@color/appbar_background_color</item> <!-- Цвет фона -->
+        <item name="itemIconTint">@color/white</item> <!-- Цвет иконок -->
+        <item name="itemTextColor">@color/white</item> <!-- Цвет текста -->
+        <item name="itemRippleColor">@color/white</item> <!--эффект нажатия -->
+        <item name="elevation">0dp</item> <!--убираем тень  -->
+    </style>
+
+    <style name="Widget.App.MaterialToolbar" parent="Widget.MaterialComponents.Toolbar">
+        <item name="background">@color/black</item> <!-- Цвет фона -->
+        <item name="itemIconTint">@color/black</item> <!-- Цвет иконок -->
+        <item name="itemTextColor">@color/black</item> <!-- Цвет текста -->
+        <item name="itemRippleColor">@color/dark_blue</item> <!--эффект нажатия -->
+        <item name="subtitleTextColor">@color/black</item> <!-- Цвет текста подзаголовка -->
+        <item name="elevation">0dp</item> <!--убираем тень  -->
+
+
+    </style>
+</resources>

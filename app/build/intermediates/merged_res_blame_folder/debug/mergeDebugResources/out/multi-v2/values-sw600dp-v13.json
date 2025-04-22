@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.seaofcinema.app-mergeDebugResources-30:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "com.example.seaofcinema.app-mergeDebugResources-31:/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\fa48d1b0ea0a02e79e69fe7286722286\\transformed\\appcompat-1.7.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,124,193,263,337,413,472,543",
-                        "endColumns": "68,68,69,73,75,58,70,67",
-                        "endOffsets": "119,188,258,332,408,467,538,606"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\78238c778e1856df376f03eaaf7854d3\\transformed\\material-1.12.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\44a0d09e927de3fd0017f84301fab4f0\\transformed\\material-1.13.0-alpha11\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -47,6 +37,16 @@
                         "startOffsets": "611,655,1260,1310,1360,1414,1572,1619",
                         "endColumns": "43,42,49,49,53,42,46,47",
                         "endOffsets": "650,693,1305,1355,1409,1452,1614,1662"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\b0d4874b955f754c84b7f31037b6557a\\transformed\\appcompat-1.7.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
                     }
                 }
             ]

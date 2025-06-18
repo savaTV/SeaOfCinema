@@ -1,4 +1,4 @@
-package com.example.seaofcinema;
+package com.example.seaofcinema
 
 import androidx.recyclerview.widget.RecyclerView
 import com.example.seaofcinema.databinding.FilmItemBinding

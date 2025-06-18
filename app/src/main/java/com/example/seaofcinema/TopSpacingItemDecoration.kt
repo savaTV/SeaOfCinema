@@ -1,4 +1,4 @@
-package com.example.seaofcinema;
+package com.example.seaofcinema
 
 import android.content.res.Resources
 import android.graphics.Rect

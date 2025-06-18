@@ -1,12 +1,12 @@
-package com.example.seaofcinema;
+package com.example.seaofcinema
 
 import android.os.Parcelable
-import kotlinx.android.parcel.Parcelize
+import kotlinx.parcelize.Parcelize
 
 @Parcelize
 data class Film(
     val id: Int,
     val title: String,
     val poster: Int,
-    val description: String
+    val description: String,
 ) : Parcelable

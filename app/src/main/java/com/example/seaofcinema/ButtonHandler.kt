@@ -1,7 +1,5 @@
-import android.content.Intent
-import android.net.Uri
+package com.example.seaofcinema
 import androidx.coordinatorlayout.widget.CoordinatorLayout
-import androidx.core.content.ContextCompat.startActivity
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import com.google.android.material.snackbar.Snackbar
 
@@ -13,11 +11,11 @@ class ButtonHandler(
     private val addWatchLaterIcon: Int,
     private val removeWatchLaterIcon: Int,
     private val addFavoriteIcon: Int,
-    private val removeFavoriteIcon: Int
+    private val removeFavoriteIcon: Int,
 ) {
 
-    var isAddedToWatchLater = false
-    var isAddedToFavorites = false
+    private var isAddedToWatchLater = false
+    private var isAddedToFavorites = false
 
     init {
         setupClickListeners()
@@ -80,14 +78,12 @@ class ButtonHandler(
                 "Ссылка скопирована",
                 Snackbar.LENGTH_LONG
             ).setAction("Открыть") {
-                val url = "https://example.com"
-                val intent = Intent(Intent.ACTION_VIEW, Uri.parse(url))
-                startActivity(intent)
+                startActivity()
             }.show()
         }
     }
 
-    private fun startActivity(intent: Intent) {
+    private fun startActivity() {
 
     }
 }

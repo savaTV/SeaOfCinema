@@ -1,11 +1,14 @@
+@file:Suppress("DEPRECATION")
+
+package com.example.seaofcinema
+
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
-import com.example.seaofcinema.Film
-import com.example.seaofcinema.R
+
 import com.example.seaofcinema.databinding.ActivityDetailsBinding
 
 class DetailsFragment : Fragment() {
@@ -13,7 +16,7 @@ class DetailsFragment : Fragment() {
     private lateinit var binding: ActivityDetailsBinding
     private lateinit var buttonHandler: ButtonHandler
 
-    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
+    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View {
         binding = ActivityDetailsBinding.inflate(inflater, container, false)
         return binding.root
     }

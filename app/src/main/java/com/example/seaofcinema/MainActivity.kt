@@ -1,16 +1,9 @@
 package com.example.seaofcinema
 
-import DetailsFragment
-import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
-import android.widget.Toolbar
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
-import androidx.compose.material3.AlertDialog
-import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.seaofcinema.databinding.ActivityMainBinding
-import com.google.android.material.appbar.AppBarLayout
 import com.google.android.material.appbar.MaterialToolbar
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
@@ -32,16 +25,17 @@ class MainActivity : AppCompatActivity() {
         val builder = AlertDialog.Builder(this)
         builder.setTitle("Выйти из приложения")
         builder.setMessage("Вы уверены, что хотите выйти?")
-        builder.setPositiveButton("Да") { dialog, which ->
+        builder.setPositiveButton("Да") { _, _ ->
             finish()
         }
-        builder.setNeutralButton("Нет") { dialog, which ->
+        builder.setNeutralButton("Нет") { dialog, _ ->
             dialog.dismiss()
         }
         val dialog = builder.create()
         dialog.show()
     }
 
+    @Deprecated("This method has been deprecated in favor of using the\n      {@link OnBackPressedDispatcher} via {@link #getOnBackPressedDispatcher()}.\n      The OnBackPressedDispatcher controls how back button events are dispatched\n      to one or more {@link OnBackPressedCallback} objects.")
     override fun onBackPressed() {
         AlertDialog()
     }

@@ -26,7 +26,21 @@
         <item name="itemRippleColor">@color/dark_blue</item> <!--эффект нажатия -->
         <item name="subtitleTextColor">@color/black</item> <!-- Цвет текста подзаголовка -->
         <item name="elevation">0dp</item> <!--убираем тень  -->
+    </style>
 
-
+    <style name="Theme.AppCompat.NoActionBar.Fullscreen" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowContentOverlay">@null</item>ф
+    </style>
+    <style name="AppTheme.ActivityDetails" parent="Theme.MaterialComponents">
+        <item name="background">@drawable/gradient_background</item> <!-- цвет фона -->
+        <item name="itemIconTint">@color/black</item> <!-- Цвет иконок -->
+        <item name="itemTextColor">@color/black</item> <!-- Цвет текста -->
+        <item name="itemRippleColor">@color/dark_blue</item> <!--эффект нажатия -->
+        <item name="subtitleTextColor">@color/black</item> <!-- Цвет текста подзаголовка, если используется -->
+        <item name="elevation">0dp</item> <!--убираем тень  -->
     </style>
 </resources>

@@ -1,10 +1,37 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.seaofcinema.app-mergeDebugResources-31:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "com.example.seaofcinema.app-mergeDebugResources-61:/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\44a0d09e927de3fd0017f84301fab4f0\\transformed\\material-1.13.0-alpha11\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\a9155f453381f119feaf34acc6b1c0bf\\transformed\\appcompat-1.7.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zivaa\\AndroidStudioProjects\\SeaOfCinema2\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,5,4,6,9,7,8",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,99,192,142,242,391,296,343",
+                        "endColumns": "43,42,49,49,53,42,46,47",
+                        "endOffsets": "94,137,237,187,291,429,338,386"
+                    },
+                    "to": {
+                        "startLines": "10,11,21,22,23,24,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "611,655,1260,1310,1360,1414,1572,1619",
+                        "endColumns": "43,42,49,49,53,42,46,47",
+                        "endOffsets": "650,693,1305,1355,1409,1452,1614,1662"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\cf18e1e4e07d478e2de9c392c0ce7f7c\\transformed\\material-1.13.0-alpha11\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -20,33 +47,6 @@
                         "endLines": "12,13,14,15,16,17,19,20,25,26,29,33",
                         "endColumns": "59,69,70,71,57,57,10,63,55,58,62,10",
                         "endOffsets": "753,823,894,966,1024,1082,1191,1255,1508,1567,1725,1897"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\zivaa\\AndroidStudioProjects\\SeaOfCinema2\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
-                    "from": {
-                        "startLines": "2,3,5,4,6,9,7,8",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "57,102,197,146,248,400,303,351",
-                        "endColumns": "43,42,49,49,53,42,46,47",
-                        "endOffsets": "96,140,242,191,297,438,345,394"
-                    },
-                    "to": {
-                        "startLines": "10,11,21,22,23,24,27,28",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "611,655,1260,1310,1360,1414,1572,1619",
-                        "endColumns": "43,42,49,49,53,42,46,47",
-                        "endOffsets": "650,693,1305,1355,1409,1452,1614,1662"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\b0d4874b955f754c84b7f31037b6557a\\transformed\\appcompat-1.7.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,124,193,263,337,413,472,543",
-                        "endColumns": "68,68,69,73,75,58,70,67",
-                        "endOffsets": "119,188,258,332,408,467,538,606"
                     }
                 }
             ]

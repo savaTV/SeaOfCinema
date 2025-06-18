@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.seaofcinema.app-mergeDebugResources-31:/values-v21/values-v21.xml",
+            "outputFile": "com.example.seaofcinema.app-mergeDebugResources-61:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\44a0d09e927de3fd0017f84301fab4f0\\transformed\\material-1.13.0-alpha11\\res\\values-v21\\values-v21.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,153,248,344",
-                        "endColumns": "97,94,95,96",
-                        "endOffsets": "148,243,339,436"
-                    },
-                    "to": {
-                        "startLines": "3,4,5,6",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "173,271,366,462",
-                        "endColumns": "97,94,95,96",
-                        "endOffsets": "266,361,457,554"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\9fd91fc903dd5afbfb72307fd4d721e7\\transformed\\core-1.15.0\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\d077717e214be8a61b8e042c6abdb590\\transformed\\core-1.15.0\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -40,7 +23,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\b0d4874b955f754c84b7f31037b6557a\\transformed\\appcompat-1.7.0\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\cf18e1e4e07d478e2de9c392c0ce7f7c\\transformed\\material-1.13.0-alpha11\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,153,248,344",
+                        "endColumns": "97,94,95,96",
+                        "endOffsets": "148,243,339,436"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "173,271,366,462",
+                        "endColumns": "97,94,95,96",
+                        "endOffsets": "266,361,457,554"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\a9155f453381f119feaf34acc6b1c0bf\\transformed\\appcompat-1.7.0\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,24,26,27,28,29,30,32,34,36,38,40,42,43,48,50,52,53,54,56,58,59,60,61,62,63,106,109,152,155,158,160,162,164,167,171,174,175,176,179,180,181,182,183,184,187,188,190,192,194,196,200,202,203,204,205,207,211,213,215,216,217,218,219,220,222,223,224,234,235,236,248",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

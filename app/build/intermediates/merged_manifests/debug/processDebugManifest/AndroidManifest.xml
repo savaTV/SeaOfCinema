@@ -8,6 +8,8 @@
         android:minSdkVersion="28"
         android:targetSdkVersion="35" />
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <permission
         android:name="com.example.seaofcinema.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
@@ -26,7 +28,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/AppTheme" >
+        android:theme="@style/Base.Theme.SeaOfCinema" >
+        <activity
+            android:name="com.example.seaofcinema.DetailsFragment"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar.Fullscreen" />
         <activity
             android:name="com.example.seaofcinema.MainActivity"
             android:exported="true" >
@@ -36,6 +42,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="androidx.compose.ui.tooling.PreviewActivity"
+            android:exported="true" />
+        <activity
+            android:name="androidx.activity.ComponentActivity"
+            android:exported="true"
+            android:theme="@android:style/Theme.Material.Light.NoActionBar" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.seaofcinema.app-mergeDebugResources-31:/values-v24/values-v24.xml",
+            "outputFile": "com.example.seaofcinema.app-mergeDebugResources-61:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\b0d4874b955f754c84b7f31037b6557a\\transformed\\appcompat-1.7.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\a9155f453381f119feaf34acc6b1c0bf\\transformed\\appcompat-1.7.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\44a0d09e927de3fd0017f84301fab4f0\\transformed\\material-1.13.0-alpha11\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\cf18e1e4e07d478e2de9c392c0ce7f7c\\transformed\\material-1.13.0-alpha11\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,9,12,15",
                         "startColumns": "4,4,4,4,4,4,4,4",

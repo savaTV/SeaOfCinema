@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.seaofcinema.app-mergeDebugResources-30:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "com.example.seaofcinema.app-mergeDebugResources-61:/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\fa48d1b0ea0a02e79e69fe7286722286\\transformed\\appcompat-1.7.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\a9155f453381f119feaf34acc6b1c0bf\\transformed\\appcompat-1.7.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\78238c778e1856df376f03eaaf7854d3\\transformed\\material-1.12.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\zivaa\\AndroidStudioProjects\\SeaOfCinema2\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,5,4,6,9,7,8",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,99,192,142,242,391,296,343",
+                        "endColumns": "43,42,49,49,53,42,46,47",
+                        "endOffsets": "94,137,237,187,291,429,338,386"
+                    },
+                    "to": {
+                        "startLines": "10,11,21,22,23,24,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "611,655,1260,1310,1360,1414,1572,1619",
+                        "endColumns": "43,42,49,49,53,42,46,47",
+                        "endOffsets": "650,693,1305,1355,1409,1452,1614,1662"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\cf18e1e4e07d478e2de9c392c0ce7f7c\\transformed\\material-1.13.0-alpha11\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -24,12 +41,12 @@
                         "endOffsets": "110,180,251,323,381,439,548,612,668,727,790,962"
                     },
                     "to": {
-                        "startLines": "10,11,12,13,14,15,16,18,19,20,21,22",
+                        "startLines": "12,13,14,15,16,17,18,20,25,26,29,30",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "611,671,741,812,884,942,1000,1109,1173,1229,1288,1351",
-                        "endLines": "10,11,12,13,14,15,17,18,19,20,21,25",
+                        "startOffsets": "698,758,828,899,971,1029,1087,1196,1457,1513,1667,1730",
+                        "endLines": "12,13,14,15,16,17,19,20,25,26,29,33",
                         "endColumns": "59,69,70,71,57,57,10,63,55,58,62,10",
-                        "endOffsets": "666,736,807,879,937,995,1104,1168,1224,1283,1346,1518"
+                        "endOffsets": "753,823,894,966,1024,1082,1191,1255,1508,1567,1725,1897"
                     }
                 }
             ]

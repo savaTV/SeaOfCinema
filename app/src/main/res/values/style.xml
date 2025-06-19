@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
+        <item name="colorPrimary">@color/purple_dream</item>
+        <item name="backgroundColor">@color/black</item> <!-- Цвет фона для элементов или экрана -->
+        <item name="colorPrimaryDark">@color/black</item> <!-- Темный вариант основного цвета (например, для статус-бара) -->
+        <item name="colorAccent">@color/white</item> <!-- Акцентный цвет (например, для кнопок или выделений) -->
+        <item name="android:textColorLink">@color/black</item> <!-- Цвет ссылок в тексте -->
+        <item name="android:textColor">@color/black</item> <!-- Основной цвет текста в приложении -->
+        <item name="elevation">0dp</item> <!--убираем тень  -->
+
+
+    </style>
+
+    <style name="Widget.App.BottomNavigationView" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="backgroundTint">@color/appbar_background_color</item> <!-- Цвет фона -->
+        <item name="itemIconTint">@color/black</item> <!-- Цвет иконок -->
+        <item name="itemTextColor">@color/black</item> <!-- Цвет текста -->
+        <item name="itemRippleColor">@color/dark_blue</item> <!--эффект нажатия -->
+        <item name="elevation">0dp</item> <!--убираем тень  -->
+    </style>
+
+    <style name="Widget.App.MaterialToolbar" parent="Widget.MaterialComponents.Toolbar">
+        <item name="background">@color/purple_dream</item>
+        <item name="itemIconTint">@color/black</item> <!-- Цвет иконок -->
+        <item name="itemTextColor">@color/black</item> <!-- Цвет текста -->
+        <item name="itemRippleColor">@color/dark_blue</item> <!--эффект нажатия -->
+        <item name="subtitleTextColor">@color/black</item> <!-- Цвет текста подзаголовка, если используется -->
+        <item name="elevation">0dp</item> <!--убираем тень  -->
+    </style>
+    <style name="Theme.AppCompat.NoActionBar.Fullscreen" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="AppTheme.ActivityDetails" parent="Theme.MaterialComponents.DayNight">
+        <item name="backgroundTint">@drawable/gradient_background</item> <!-- цвет фона -->
+        <item name="itemIconTint">@color/black</item> <!-- Цвет иконок -->
+        <item name="itemTextColor">@color/black</item> <!-- Цвет текста -->
+        <item name="itemRippleColor">@color/dark_blue</item> <!--эффект нажатия -->
+        <item name="subtitleTextColor">@color/black</item> <!-- Цвет текста подзаголовка, если используется -->
+        <item name="elevation">0dp</item> <!--убираем тень  -->
+    </style>
+</resources>

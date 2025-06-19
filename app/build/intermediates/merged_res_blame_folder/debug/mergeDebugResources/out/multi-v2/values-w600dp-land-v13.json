@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.seaofcinema.app-mergeDebugResources-30:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "outputFile": "com.example.seaofcinema.app-mergeDebugResources-61:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\78238c778e1856df376f03eaaf7854d3\\transformed\\material-1.12.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\cf18e1e4e07d478e2de9c392c0ce7f7c\\transformed\\material-1.13.0-alpha11\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

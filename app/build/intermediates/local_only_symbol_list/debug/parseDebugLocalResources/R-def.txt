@@ -128,9 +128,15 @@ string buttonSelect
 string buttonSeries
 string buttonSetting
 string buttonWatchLater
+string button_favorite
+string button_watch_laters
+string details_fab
 string disclaimer
-string hello_blank_fragment
-string imagePoster
+string imagePoster1
+string imagePoster2
+string imagePoster3
+string imagePoster4
+string imagePoster5
 string nameApp
 string page_title
 string title_activity_details

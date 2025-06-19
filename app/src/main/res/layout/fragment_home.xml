@@ -40,7 +40,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:contentDescription="@string/imagePoster"
+                    android:contentDescription="@string/imagePoster1"
                     android:scaleType="centerCrop"
                     android:src="@drawable/posters1" />
             </androidx.cardview.widget.CardView>
@@ -59,7 +59,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:scaleType="centerCrop"
-                    android:contentDescription="@string/imagePoster"
+                    android:contentDescription="@string/imagePoster2"
                     android:src="@drawable/posters2" />
             </androidx.cardview.widget.CardView>
 
@@ -77,7 +77,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:scaleType="centerCrop"
-                    android:contentDescription="@string/imagePoster"
+                    android:contentDescription="@string/imagePoster3"
                     android:src="@drawable/posters3" />
             </androidx.cardview.widget.CardView>
 
@@ -95,7 +95,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:scaleType="centerCrop"
-                    android:contentDescription="@string/imagePoster"
+                    android:contentDescription="@string/imagePoster4"
                     android:src="@drawable/posters4" />
             </androidx.cardview.widget.CardView>
 
@@ -113,7 +113,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:scaleType="centerCrop"
-                    android:contentDescription="@string/imagePoster"
+                    android:contentDescription="@string/imagePoster5"
                     android:src="@drawable/posters5" />
             </androidx.cardview.widget.CardView>
 

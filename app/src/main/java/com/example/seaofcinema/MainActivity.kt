@@ -8,6 +8,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.appbar.MaterialToolbar
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
+@Suppress("DEPRECATION")
 class MainActivity : AppCompatActivity() {
 
 
@@ -25,22 +26,29 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun AlertDialog() {
-        val builder = AlertDialog.Builder(this)
-        builder.setTitle("Выйти из приложения")
-        builder.setMessage("Вы уверены, что хотите выйти?")
-        builder.setPositiveButton("Да") { _, _ ->
+        val ad = AlertDialog.Builder(this)
+
+        ad.setTitle("Выйти из приложения")
+        ad.setIcon(R.drawable.ic_launcher_background)
+        ad.setMessage("Вы уверены, что хотите выйти?")
+        ad.setPositiveButton("Да") { _, _ ->
             finish()
         }
-        builder.setNeutralButton("Нет") { dialog, _ ->
+        ad.setNeutralButton("Нет") { dialog, _ ->
             dialog.dismiss()
         }
-        val dialog = builder.create()
+        val dialog = ad.create()
         dialog.show()
     }
 
     @Deprecated("This method has been deprecated in favor of using the\n      {@link OnBackPressedDispatcher} via {@link #getOnBackPressedDispatcher()}.\n      The OnBackPressedDispatcher controls how back button events are dispatched\n      to one or more {@link OnBackPressedCallback} objects.")
     override fun onBackPressed() {
-        AlertDialog()
+        val currentFragment = supportFragmentManager.findFragmentById(R.id.fragment_placeholder)
+        if (currentFragment is HomeFragment){
+            AlertDialog()
+            }else {
+                super.onBackPressed()
+        }
     }
 
 

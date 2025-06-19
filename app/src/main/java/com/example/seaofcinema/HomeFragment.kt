@@ -95,5 +95,7 @@ class HomeFragment : Fragment() {
         filmsAdapter.updateItems(filmsDataBase)
 
     }
+
+
 }
 

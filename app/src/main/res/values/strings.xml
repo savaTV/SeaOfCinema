@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">SeaOfCinema</string>
+    <string name="buttonMenu">Меню</string>
+    <string name="buttonFilms">Фильмы</string>
+    <string name="buttonSeries">Сериалы</string>
+    <string name="buttonSelect">Избранное</string>
+    <string name="buttonWatchLater">Смотреть позже</string>
+    <string name="buttonSetting">Настройки</string>
+    <string name="disclaimer">Постеры предоставлены https://www.movieposters.com/</string>
+    <string name="nameApp">SeaOfCinema</string>
+    <string name="imagePoster1">Avengers</string>
+    <string name="imagePoster2">Back to the Future</string>
+    <string name="imagePoster3">Jurassic Park</string>
+    <string name="imagePoster4">The Dark Knight</string>
+    <string name="imagePoster5">Interstellar</string>
+    <string name="baselineFavorites">Избранное</string>
+    <string name="baselineSetting">Настройка</string>
+    <string name="baselineWatchLater">Смотреть позже </string>
+    <string name="baselineSelections"> Подборка </string>
+    <string name="page_title"> Search it </string>
+    <string name="title_activity_details">Details Activity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="button_favorite">Favorite</string>
+    <string name="details_fab">Details</string>
+    <string name="button_watch_laters">Watch later</string>
+
+
+
 </resources>

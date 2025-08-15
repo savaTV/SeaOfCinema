@@ -24,7 +24,7 @@
 17-->[androidx.core:core:1.15.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\d077717e214be8a61b8e042c6abdb590\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
 18
 19    <application
-19-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:7:5-30:19
+19-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:7:5-29:19
 20        android:allowBackup="true"
 20-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:8:9-35
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -47,7 +47,7 @@
 31        android:theme="@style/Base.Theme.SeaOfCinema" >
 31-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:15:9-54
 32        <activity
-32-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:17:9-21:15
+32-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:17:9-20:77
 33            android:name="com.example.seaofcinema.DetailsFragment"
 33-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:18:13-44
 34            android:exported="false"
@@ -55,20 +55,20 @@
 35            android:theme="@style/Theme.AppCompat.NoActionBar.Fullscreen" />
 35-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:20:13-74
 36        <activity
-36-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:22:9-29:20
+36-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:21:9-28:20
 37            android:name="com.example.seaofcinema.MainActivity"
-37-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:23:13-41
+37-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:22:13-41
 38            android:exported="true" >
-38-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:24:13-36
+38-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:23:13-36
 39            <intent-filter>
-39-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:25:13-28:29
+39-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:24:13-27:29
 40                <action android:name="android.intent.action.MAIN" />
-40-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:26:17-69
-40-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:26:25-66
+40-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:25:17-69
+40-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:25:25-66
 41
 42                <category android:name="android.intent.category.LAUNCHER" />
-42-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:27:17-77
-42-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:27:27-74
+42-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:26:17-77
+42-->C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:26:27-74
 43            </intent-filter>
 44        </activity>
 45        <activity

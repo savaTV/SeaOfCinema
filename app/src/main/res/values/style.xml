@@ -43,4 +43,5 @@
         <item name="subtitleTextColor">@color/black</item> <!-- Цвет текста подзаголовка, если используется -->
         <item name="elevation">0dp</item> <!--убираем тень  -->
     </style>
+
 </resources>

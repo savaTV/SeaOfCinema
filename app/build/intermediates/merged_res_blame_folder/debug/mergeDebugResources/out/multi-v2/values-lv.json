@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.seaofcinema.app-mergeDebugResources-61:/values-lv/values-lv.xml",
+            "outputFile": "com.example.seaofcinema.app-mergeDebugResources-62:/values-lv/values-lv.xml",
             "map": [
                 {
                     "source": "C:\\Users\\zivaa\\.gradle\\caches\\8.9\\transforms\\d50380631fbb4af028fc661585ac830d\\transformed\\ui-release\\res\\values-lv\\values-lv.xml",

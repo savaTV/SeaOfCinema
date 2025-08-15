@@ -17,8 +17,7 @@
         <activity
             android:name=".DetailsFragment"
             android:exported="false"
-            android:theme="@style/Theme.AppCompat.NoActionBar.Fullscreen"
-            />
+            android:theme="@style/Theme.AppCompat.NoActionBar.Fullscreen" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

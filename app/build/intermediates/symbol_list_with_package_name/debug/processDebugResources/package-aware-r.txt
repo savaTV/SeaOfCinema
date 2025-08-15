@@ -3415,6 +3415,7 @@ drawable baseline_dehaze
 drawable baseline_favorite
 drawable baseline_favorite_24
 drawable baseline_favorite_border_24
+drawable baseline_search_24
 drawable baseline_settings
 drawable baseline_video_library
 drawable baseline_watch_later_24
@@ -3545,6 +3546,7 @@ drawable posters3
 drawable posters4
 drawable posters5
 drawable round_menu
+drawable search_view_back
 drawable superman
 drawable test_level_drawable
 drawable the_amateur
@@ -3722,8 +3724,8 @@ id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
 id details_description
-id details_fab
 id details_poster
+id details_toolbar
 id dialog_button
 id dimensions
 id direct
@@ -3760,6 +3762,7 @@ id expand_activities_button
 id expanded_menu
 id fade
 id favorites
+id favorites_recycler
 id fill
 id fill_horizontal
 id fill_vertical
@@ -3773,12 +3776,13 @@ id fixed
 id flip
 id floating
 id forever
+id fragment_container
 id fragment_container_view_tag
-id fragment_placeholder
 id frost
 id fullscreen_header
 id ghost_view
 id ghost_view_holder
+id glide_custom_view_target_tag
 id gone
 id gradient_overlay
 id graph
@@ -3803,11 +3807,6 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
-id image1
-id image2
-id image3
-id image4
-id image5
 id immediateStop
 id included
 id indeterminate
@@ -3949,11 +3948,6 @@ id pooling_container_listener_holder_tag
 id position
 id postLayout
 id poster
-id posters1
-id posters2
-id posters3
-id posters4
-id posters5
 id pressed
 id progress_circular
 id progress_horizontal
@@ -3979,6 +3973,7 @@ id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
 id scrollable
+id search
 id search_badge
 id search_bar
 id search_button
@@ -3988,6 +3983,7 @@ id search_go_btn
 id search_mag_icon
 id search_plate
 id search_src_text
+id search_view
 id search_voice_btn
 id select_dialog_listview
 id selected
@@ -4007,6 +4003,7 @@ id slide
 id snackbar_action
 id snackbar_button_favorite
 id snackbar_button_watch_laters
+id snackbar_details_fab_share
 id snackbar_text
 id snap
 id snapMargins
@@ -4056,7 +4053,6 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
-id textView
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -4071,13 +4067,10 @@ id title
 id titleDividerNoCustom
 id title_template
 id toggle
-id toolbar
 id toolbar_layout
 id top
 id topPanel
 id top_center
-id top_container
-id top_containers
 id touch_outside
 id transitionToEnd
 id transitionToStart
@@ -4232,7 +4225,6 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_details
 layout activity_main
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -4251,6 +4243,8 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout film_item
+layout fragment_details
+layout fragment_favorites
 layout fragment_home
 layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
@@ -4318,6 +4312,7 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 menu nav_menu
+menu search_menu
 menu toolbar_menu
 mipmap ic_launcher
 mipmap ic_launcher_foreground

@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.coordinatorlayout.widget.CoordinatorLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/coordinator_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:fitsSystemWindows="true"
     android:background="@drawable/gradient_background"
+    android:fitsSystemWindows="true"
     tools:context=".MainActivity">
 
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/app_bar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:fitsSystemWindows="true"
         android:background="@color/appbar_background_color"
+        android:fitsSystemWindows="true"
         app:layout_scrollFlags="scroll|enterAlways|exitUntilCollapsed">
 
         <com.google.android.material.appbar.CollapsingToolbarLayout
@@ -23,10 +22,10 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:fitsSystemWindows="true"
-            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            android:minHeight="?attr/actionBarSize"
             app:contentScrim="?attr/colorPrimary"
-            
-            android:minHeight="?attr/actionBarSize">
+
+            app:layout_scrollFlags="scroll|exitUntilCollapsed">
 
             <FrameLayout
                 android:layout_width="match_parent"
@@ -46,13 +45,13 @@
                     android:id="@+id/gradient_overlay"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="@drawable/gradient_fade"
-                    android:alpha="0" />
+                    android:alpha="0"
+                    android:background="@drawable/gradient_fade" />
 
             </FrameLayout>
 
             <androidx.appcompat.widget.Toolbar
-                android:id="@+id/toolbar"
+                android:id="@+id/details_toolbar"
                 style="@style/Theme.MaterialComponents"
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize"
@@ -66,8 +65,8 @@
         android:id="@+id/button_container"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
         android:gravity="center|end"
+        android:orientation="horizontal"
         android:padding="16dp"
         app:layout_anchor="@id/app_bar"
         app:layout_anchorGravity="bottom|end">
@@ -101,7 +100,7 @@
             tools:ignore="ClassNameCheck" />
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
-            android:id="@+id/details_fab"
+            android:id="@+id/snackbar_details_fab_share"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:backgroundTint="#3F51B5"
@@ -125,12 +124,12 @@
 
             <TextView
                 android:id="@+id/details_description"
-                android:layout_width="match_parent"
                 style="@style/Theme.MaterialComponents"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="16dp"
-                tools:text="@tools:sample/lorem/random"
-                tools:ignore="VisualLintLongText" />
+                tools:ignore="VisualLintLongText"
+                tools:text="@tools:sample/lorem/random" />
 
 
         </LinearLayout>

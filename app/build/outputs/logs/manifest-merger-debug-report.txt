@@ -1,14 +1,15 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:2:1-32:12
+ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:2:1-31:12
 MERGED from [androidx.databinding:viewbinding:8.7.2] C:\Users\zivaa\.gradle\caches\8.9\transforms\cf0708d613921b7765d96af27c6be4b3\transformed\viewbinding-8.7.2\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.13.0-alpha11] C:\Users\zivaa\.gradle\caches\8.9\transforms\cf18e1e4e07d478e2de9c392c0ce7f7c\transformed\material-1.13.0-alpha11\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\ea8ade28a8ffca8f79daff203bf0e9d8\transformed\constraintlayout-2.2.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\ad659955e895b5b81777bfa8f43ce6e7\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\a9155f453381f119feaf34acc6b1c0bf\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\24977c2ba141bffff16b3404316df86c\transformed\glide-4.16.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.recyclerview:recyclerview:1.4.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\6a596569b861020f9d216fae81d754a1\transformed\recyclerview-1.4.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\zivaa\.gradle\caches\8.9\transforms\7ada51325a8e20e24fc14d0366dbcbbd\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\zivaa\.gradle\caches\8.9\transforms\dd14a6d986013d62ed86b519a56c2a0e\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
@@ -73,9 +74,11 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\zi
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\bd9c6f6c94dbeff6ebdf6842934d2a98\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\190638265157fbb7f1a9b2a1416ad92b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\736ae10efe674815ff223a6cbec0334b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\b576717d504b2a196d05eb1df9646163\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\020dbd63589cfc13f0d4dfbb2860d339\transformed\gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\zivaa\.gradle\caches\8.9\transforms\fd59e76158e162fa018de7941a0758d7\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\zivaa\.gradle\caches\8.9\transforms\4cacff5e5f75b5e05022191b704d7925\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\c0abeb1b03a50829628515a5bf90cad8\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\b576717d504b2a196d05eb1df9646163\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\150714d1c374ca8d5f38d69c48b166fb\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\d29199b56a3aa09d0c1c45d259c90050\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\ad1fdd0354ace67ccac72edaf71d62de\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -95,8 +98,8 @@ ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\Androi
 	android:name
 		ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:7:5-30:19
-INJECTED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:7:5-30:19
+ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:7:5-29:19
+INJECTED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:7:5-29:19
 MERGED from [com.google.android.material:material:1.13.0-alpha11] C:\Users\zivaa\.gradle\caches\8.9\transforms\cf18e1e4e07d478e2de9c392c0ce7f7c\transformed\material-1.13.0-alpha11\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.13.0-alpha11] C:\Users\zivaa\.gradle\caches\8.9\transforms\cf18e1e4e07d478e2de9c392c0ce7f7c\transformed\material-1.13.0-alpha11\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\ea8ade28a8ffca8f79daff203bf0e9d8\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
@@ -140,7 +143,7 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\zivaa\.gradle\cach
 	android:dataExtractionRules
 		ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:9:9-65
 activity#com.example.seaofcinema.DetailsFragment
-ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:17:9-21:15
+ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:17:9-20:77
 	android:exported
 		ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:19:13-37
 	android:theme
@@ -148,21 +151,21 @@ ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\Androi
 	android:name
 		ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:18:13-44
 activity#com.example.seaofcinema.MainActivity
-ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:22:9-29:20
+ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:21:9-28:20
 	android:exported
-		ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:24:13-36
+		ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:23:13-36
 	android:name
-		ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:23:13-41
+		ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:22:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:25:13-28:29
+ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:24:13-27:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:26:17-69
+ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:26:25-66
+		ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:27:17-77
+ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:27:27-74
+		ADDED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml:26:27-74
 uses-sdk
 INJECTED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\zivaa\AndroidStudioProjects\SeaOfCinema2\app\src\main\AndroidManifest.xml
@@ -177,6 +180,8 @@ MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\zivaa\.gradl
 MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\ad659955e895b5b81777bfa8f43ce6e7\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\a9155f453381f119feaf34acc6b1c0bf\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\a9155f453381f119feaf34acc6b1c0bf\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\24977c2ba141bffff16b3404316df86c\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\24977c2ba141bffff16b3404316df86c\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.recyclerview:recyclerview:1.4.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\6a596569b861020f9d216fae81d754a1\transformed\recyclerview-1.4.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.4.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\6a596569b861020f9d216fae81d754a1\transformed\recyclerview-1.4.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\zivaa\.gradle\caches\8.9\transforms\7ada51325a8e20e24fc14d0366dbcbbd\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
@@ -305,12 +310,16 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\zivaa\.gradle\
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\190638265157fbb7f1a9b2a1416ad92b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\736ae10efe674815ff223a6cbec0334b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
 MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\736ae10efe674815ff223a6cbec0334b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\b576717d504b2a196d05eb1df9646163\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\b576717d504b2a196d05eb1df9646163\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\020dbd63589cfc13f0d4dfbb2860d339\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\020dbd63589cfc13f0d4dfbb2860d339\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\zivaa\.gradle\caches\8.9\transforms\fd59e76158e162fa018de7941a0758d7\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\zivaa\.gradle\caches\8.9\transforms\fd59e76158e162fa018de7941a0758d7\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\zivaa\.gradle\caches\8.9\transforms\4cacff5e5f75b5e05022191b704d7925\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\zivaa\.gradle\caches\8.9\transforms\4cacff5e5f75b5e05022191b704d7925\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\c0abeb1b03a50829628515a5bf90cad8\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\c0abeb1b03a50829628515a5bf90cad8\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\b576717d504b2a196d05eb1df9646163\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\b576717d504b2a196d05eb1df9646163\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\150714d1c374ca8d5f38d69c48b166fb\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\150714d1c374ca8d5f38d69c48b166fb\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\zivaa\.gradle\caches\8.9\transforms\d29199b56a3aa09d0c1c45d259c90050\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44

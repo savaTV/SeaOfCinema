@@ -9,4 +9,6 @@ data class Film(
     val title: String,
     val poster: Int,
     val description: String,
+    var isInFavorites: Boolean = false
 ) : Parcelable
+
